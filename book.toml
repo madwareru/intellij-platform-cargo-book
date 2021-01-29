@@ -1,0 +1,11 @@
+[book]
+title = "Undocumented features of Intellij Platofrm"
+author = "Alexis Beingessner"
+description = "Description for undocumented features of Intellij Platofrm. Some place where I gather a missing info"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html.search]
+limit-results = 30
