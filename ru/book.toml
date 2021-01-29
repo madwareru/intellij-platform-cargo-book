@@ -1,0 +1,11 @@
+[book]
+title = "Недокументированные возможности Intellij Platofrm"
+author = "Виталий Самотокин"
+description = "Недокументированные возможности Intellij Platofrm. Место где я собираю недостающую информацию"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html.search]
+limit-results = 30
